@@ -1,5 +1,11 @@
 # README
 
+## Note – YNAS is *Not* Affiliated with YNAB
+
+This is only inspired by YNAB.
+
+## Overview
+
 You need a schedule; just like you need a budget.
 
 YNAB is a really cool app/webapp for budgeting. But, in explaining how the software works and, even more importantly, the *ideas* behind it, the YNAB creators reached for an obvious analogy to budgeting money: budgeting time.
