@@ -40,7 +40,7 @@ Analogous to the rules for YNAB, here are the rules for YNAS:
  2. Embrace your true activities.
  3. Roll with the punches.
 
-### Give every minute a job
+### Rule 1 – Give every minute a job
 
 Every minute should be scheduled.
 
@@ -48,13 +48,13 @@ But this doesn't mean that every minute needs to be scheduled for an important o
 
 A lot of time should be 'scheduled' as explicit 'slack' or free time, both to provide for flexibility in handling changes in what you've already scheduled (see rule 3), but also so you can relax or have fun.
 
-### Embrace your true activities
+### Rule 2 – Embrace your true activities
 
 Schedule time to make progress on all of your obligations and other important projects and tasks.
 
 Just as you should be budgeting regularly for large infrequent expenses, you should be scheduling time to make progress on large infrequent activities.
 
-### Roll with the punches
+### Rule 3 – Roll with the punches
 
 Look at that – no need to change the name of the rule!
 
